@@ -21,7 +21,7 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carbon-footprints-website.git
+   git clone https://github.com/yourusername/carboots_carbon-footprints.git
    ```
 2. Navigate to the project directory:
    ```bash
