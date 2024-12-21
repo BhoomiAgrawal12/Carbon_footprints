@@ -15,11 +15,11 @@ The Carbon Footprints website is an initiative to help users track and reduce th
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BhoomiAgrawal12/carboots_carbon-footprints.git
+   git clone https://github.com/BhoomiAgrawal12/carboots_carbon_footprints.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd carbon-footprints-website
+   cd carboots_carbon_footprints
    ```
 3. Open the `index.html` file in your browser to view the website.
 
