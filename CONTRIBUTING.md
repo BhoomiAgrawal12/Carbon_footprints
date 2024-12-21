@@ -14,7 +14,7 @@ Thank you for considering contributing to the Carbon Footprints project! This pl
 - Clone your forked repository to your local machine:
 
   ```bash
-  git clone https://github.com/BhoomiAgrawal12/Carbon_footprints.git
+  git clone https://github.com/<username>/Carbon_footprints.git
   cd Carbon_footprints
   ```
 
