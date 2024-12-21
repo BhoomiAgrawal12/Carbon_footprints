@@ -50,5 +50,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any queries or feedback, reach out to us at bhoomiagrawal1212@gmail.com.
+For any queries or feedback, reach out at bhoomiagrawal1212@gmail.com.
 
