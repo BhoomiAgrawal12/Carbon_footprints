@@ -12,16 +12,10 @@ The Carbon Footprints website is an initiative to help users track and reduce th
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 
-## Installation
-
-### Prerequisites
-Ensure you have the following installed on your system:
-- A modern web browser
-
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carboots_carbon-footprints.git
+   git clone https://github.com/BhoomiAgrawal12/carboots_carbon-footprints.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -56,5 +50,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any queries or feedback, reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any queries or feedback, reach out to us at bhoomiagrawal1212@gmail.com.
 
