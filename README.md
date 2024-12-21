@@ -15,11 +15,11 @@ The Carbon Footprints website is an initiative to help users track and reduce th
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BhoomiAgrawal12/carboots_carbon_footprints.git
+   git clone https://github.com/BhoomiAgrawal12/Carbon_footprints.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd carboots_carbon_footprints
+   cd Carbon_footprints
    ```
 3. Open the `index.html` file in your browser to view the website.
 
@@ -45,6 +45,8 @@ Contributions are welcome! To contribute:
    git push origin feature-name
    ```
 5. Open a pull request on GitHub.
+
+   See [CONTRIBUTION](https://github.com/BhoomiAgrawal12/Carbon_footprints/blob/main/CONTRIBUTING.md) file for more details.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
